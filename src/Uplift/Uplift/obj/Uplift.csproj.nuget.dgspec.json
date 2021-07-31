@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj": {}
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
         "projectName": "Uplift.DataAccess",
-        "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
+        "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\obj\\",
+        "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
-                "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj"
+              "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+                "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj"
               },
-              "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
-                "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj"
+              "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
+                "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
         "projectName": "Uplift.Models",
-        "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
         "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\obj\\",
+        "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
         "projectName": "Uplift.Utility",
-        "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
+        "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
         "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\obj\\",
+        "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,14 +187,14 @@
         }
       }
     },
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj": {
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj",
         "projectName": "Uplift",
-        "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj",
+        "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj",
         "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\obj\\",
+        "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +210,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj"
+              "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
+                "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj"
               }
             }
           }

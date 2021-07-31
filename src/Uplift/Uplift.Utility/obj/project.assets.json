@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
+      "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
       "projectName": "Uplift.Utility",
-      "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
+      "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\Uplift.Utility.csproj",
       "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Utility\\obj\\",
+      "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",

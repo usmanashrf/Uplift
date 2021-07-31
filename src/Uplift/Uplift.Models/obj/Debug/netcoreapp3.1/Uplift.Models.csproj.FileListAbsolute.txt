@@ -7,3 +7,12 @@ C:\Users\Prime Laptop\source\repos\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\
 C:\Users\Prime Laptop\source\repos\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
 C:\Users\Prime Laptop\source\repos\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb
 C:\Users\Prime Laptop\source\repos\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.deps.json
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.dll
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\bin\Debug\netcoreapp3.1\Uplift.Models.pdb
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csprojAssemblyReference.cache
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfoInputs.cache
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.AssemblyInfo.cs
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.csproj.CoreCompileInputs.cache
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.dll
+D:\SelfLearning\Uplift\src\Uplift\Uplift.Models\obj\Debug\netcoreapp3.1\Uplift.Models.pdb

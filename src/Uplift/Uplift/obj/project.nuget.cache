@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gaS0bZV2obA43lgzkKplZTPxuLmg7ucVYcqrfdUN2mwUO9bHyN0DJyWCQswtOip8ORBo75E5Jy6MBWzpKhQ72g==",
+  "dgSpecHash": "kjv8C003fC+tTJT5mwll0+wxHtG6FrHNFZ2C6LHYVyOHZT7kdQvenAPmPwK6Jsubv16pcu8kCr5Q1f20CbrTaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj",
+  "projectFilePath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prime Laptop\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Prime Laptop\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

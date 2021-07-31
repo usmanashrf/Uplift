@@ -9554,11 +9554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj",
+      "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj",
       "projectName": "Uplift",
-      "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\Uplift.csproj",
+      "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\Uplift.csproj",
       "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift\\obj\\",
+      "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9574,8 +9574,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj"
+            "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj": {
+              "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.DataAccess\\Uplift.DataAccess.csproj"
             }
           }
         }

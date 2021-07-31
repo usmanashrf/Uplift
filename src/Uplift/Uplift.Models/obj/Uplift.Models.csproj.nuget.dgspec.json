@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {}
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
+    "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "projectUniqueName": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
         "projectName": "Uplift.Models",
-        "projectPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
+        "projectPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\Uplift.Models.csproj",
         "packagesPath": "C:\\Users\\Prime Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prime Laptop\\source\\repos\\Uplift\\Uplift.Models\\obj\\",
+        "outputPath": "D:\\SelfLearning\\Uplift\\src\\Uplift\\Uplift.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prime Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
